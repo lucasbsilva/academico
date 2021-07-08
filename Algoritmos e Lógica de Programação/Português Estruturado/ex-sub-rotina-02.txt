@@ -1,0 +1,22 @@
+{INICIO_ALGORITMO}
+
+DECLARE num1, num2, resul NUMERICO
+
+ESCREVA "Entre com o primeiro número: "
+LEIA num1
+
+ESCREVA "Entre com o segundo número: "
+LEIA num2
+
+resul <- multiplicacao(num1, num2)
+ESCREVA resul
+
+{FIM_ALGORITMO}
+
+(exemplo de sub-rotina como função)
+
+SUB_ROTINA multiplicacao (x, y)
+DECLARE resul NUMERICO
+resul <- x * y
+RETORNE resul
+FIM_SUB_ROTINA

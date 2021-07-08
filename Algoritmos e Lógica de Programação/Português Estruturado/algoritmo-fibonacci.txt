@@ -1,0 +1,23 @@
+{INICIO DO ALGORITMO}
+
+DECLARE num, a, b, serie, i NUMERICO
+
+ESCREVA "Série de Fibonacci: Informe quantos números da série você quer visualizar:"
+leia num
+
+a ← 0
+b ← 1
+
+SE num <= 0
+	ENTAO ESCREVA "Informe um número inteiro positivo maior que zero."
+	SENAO
+	ESCREVA a
+	ESCREVA b
+	
+	PARA i ← 3 ATE num FAÇA
+	serie ← a + b
+	ESCREVA serie
+	a ← b
+	b ← serie
+
+{FIM DO ALGORITMO}

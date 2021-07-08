@@ -1,0 +1,27 @@
+{INICIO DO ALGORITMO}
+
+DECLARE termo1, termo2, termo3, delta, x1, x2 REAL
+
+ESCREVA "Informe o valor do primeiro termo da equação (A):"
+LEIA termo1
+
+ESCREVA "Informe o valor do segundo termo da equação (B):"
+LEIA termo2
+
+ESCREVA "Informe o valor do terceiro termo da equação (C):"
+LEIA termo3
+
+delta = (termo2 ^ 2) - (4 * termo1 * termo3)
+
+SE delta < 0
+
+ENTAO ESCREVA "A equação não possui raízes reais."
+
+SENAO
+	INICIO
+		x1 = ( - termo2 + SQR (delta) ) / ( 2 * a )
+		x2 = ( - termo2 - SQR (delta) ) / ( 2 * a )
+		ESCREVA "As raízes são: " x1, x2		
+	FIM
+
+{FIM DO ALGORITMO}

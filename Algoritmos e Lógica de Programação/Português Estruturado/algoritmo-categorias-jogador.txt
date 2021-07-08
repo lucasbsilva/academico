@@ -1,0 +1,17 @@
+{INICIO DO ALGORITMO}
+
+DECLARE idade NUMERICO
+
+ESCREVA "Informe sua idade para verificarmos em qual categoria você se enquadra: "
+LEIA idade
+
+SE idade ≥ 5 E idade ≤ 10
+	ENTAO ESCREVA "Você se enquadra na categoria INFANTIL."
+	SENAO
+SE idade > 10 E idade ≤ 17
+	ENTAO ESCREVA "Você se enquadra na categoria JUVENIL."
+	SENAO
+SE idade ≥ 18
+	ENTAO ESCREVA "Você se enquadra na categoria ADULTO."
+		
+{FIM DO ALGORITMO}

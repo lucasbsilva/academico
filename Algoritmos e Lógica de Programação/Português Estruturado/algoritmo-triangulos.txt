@@ -1,0 +1,28 @@
+Algoritmo - Tipos de Triângulos
+
+{INÍCIO DO ALGORITMO}
+
+DECLARE num1, num2, num3 NUMERICO
+
+ESCREVA "Informe um valor numérico positivo diferente de zero:"
+LEIA num1
+
+ESCREVA "Informe um segundo valor numérico positivo diferente de zero:"
+LEIA num2
+
+ESCREVA "Informe um terceiro valor numérico positivo diferente de zero:"
+LEIA num3
+
+SE num1 = num2 e =num3
+ENTAO ESCREVA "Com os valores digitados é possível representar um triângulo equilatero!"
+
+SENAO SE num1 = num2 e <> num3
+ENTAO ESCREVA "Com os valores digitados é possível representar um triângulo isosceles!"
+
+SENAO SE num1 <> num2 e = num3
+ENTAO ESCREVA "Com os valores digitados é possível representar um triângulo isosceles!"
+
+SENAO SE num1 <> num2 e <> num3
+ENTAO ESCREVA "Com os valores digitados é possível representar um triângulo escaleno!"
+
+{FIM DO ALGORITMO}

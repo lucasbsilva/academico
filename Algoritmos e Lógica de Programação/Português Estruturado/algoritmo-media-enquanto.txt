@@ -1,0 +1,22 @@
+{INÍCIO DO ALGORITMO}
+
+DECLARE num_t, media, soma, num, i NUMERICO
+
+ESCREVA "Informe a quantidade de notas obtidas: "
+LEIA num_t	
+
+i ← 1
+
+ENQUANTO i <= num_t FAÇA
+	INICIO	
+	ESCREVA "Informe uma nota: "
+	LEIA num
+	soma = soma + num
+	i = i + 1
+	FIM
+
+media ← soma/num_t
+
+ESCREVA "A média de suas notas é: ", media
+
+{FIM DO ALGORITMO}

@@ -1,0 +1,29 @@
+{INICIO_ALGORITMO}
+
+DECLARE num, termos[4] NUMERICO 
+
+ESCREVA "Informe um número entre 0 e 9999:"
+LEIA num
+
+SE num <= 9 ENTAO
+	ESCREVA "O inverso do número digitado é ", num, "!"
+
+SENAO SE num >= 10 E <= 99 ENTAO
+	termos[1] ← num MOD 10
+	termos[2] ← (num/10) MOD 10
+	ESCREVA "O inverso do número digitado é ", termos[2], termos[1], "!"
+
+SENAO SE num >= 100 E <= 999 ENTAO
+	termos[1] ← num MOD 10
+	termos[2] ← (num/10) MOD 10
+	termos[3] ← (num/100) MOD 10
+	ESCREVA "O inverso do número digitado é ", termos[3], termos[2], termos[1], "!"
+
+SENAO SE num >= 1000 E <= 9999 ENTAO
+	termos[1] ← num MOD 10
+	termos[2] ← (num/10) MOD 10
+	termos[3] ← (num/100) MOD 10
+	termos[4] ← (num/1000) MOD 10
+	ESCREVA "O inverso do número digitado é ", termos[4], termos[3], termos[2], termos[1], "!"
+
+{FIM_ALGORITMO}

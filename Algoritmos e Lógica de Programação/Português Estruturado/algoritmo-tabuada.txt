@@ -1,0 +1,12 @@
+{INICIO DO ALGORITMO}
+
+DECLARE num, resul, control NUMERICO
+
+ESCREVA "Digite um número:"
+LEIA num
+
+PARA control = 1 ATÉ 10 FAÇA PASSO1
+	resul= num * control
+	ESCREVA resul
+
+{INICIO DO ALGORITMO}

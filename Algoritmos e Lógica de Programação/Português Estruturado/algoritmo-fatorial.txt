@@ -1,0 +1,16 @@
+{INÍCIO DO ALGORITMO}
+
+DECLARE num, termos, fat, a, b NUMERICO
+
+ESCREVA "Digite um número: "
+LEIA num
+
+PARA a ← 1 ATÉ num FAÇA
+	LEIA termos
+	fat ← 1
+	PARA b ← 1 ATÉ termos FAÇA
+		fat ← fat * b
+
+ESCREVA "O fatorial do número digitado é ", fat
+
+{FINAL DO ALGORITMO}

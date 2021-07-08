@@ -1,0 +1,14 @@
+Algoritmo - Cálculo do Perímetro de um Quadrado
+
+{INICIO DO ALGORITMO}
+
+DECLARE num, perimetro NUMERICO
+
+ESCREVA "Informe o valor de um lado do seu quadrado:"
+LEIA num
+
+perimetro = num * 4
+
+ESCREVA "O perímetro do quadrado é ", perimetro
+
+{FIM DO ALGORITMO}

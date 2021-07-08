@@ -1,0 +1,16 @@
+{INÍCIO DO ALGORITMO}
+
+DECLARE s, x, i NUMERICO
+
+ESCREVA "Informe um número inteiro positivo qualquer: "
+LEIA x
+
+PARA i ← 1 ATÉ 20 PASSO
+	SE MOD i / 2 ≠ 0
+		ENTAO 
+		s ← s + (x / i)
+		SENAO 
+		s ← s -  (x / i)
+ESCREVA s
+
+{FIM DO ALGORITMO}

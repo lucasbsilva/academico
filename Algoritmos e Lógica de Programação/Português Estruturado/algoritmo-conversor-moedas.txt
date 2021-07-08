@@ -1,0 +1,25 @@
+Algoritmo - Conversor de Moedas
+
+{INICIO DO ALGORITMO}
+
+DECLARE num, libra, marco, dolar REAL
+
+ESCREVA "Informe um valor em reais (R$):"
+LEIA num
+
+libra = num * 6,82		// consulta do valor feita no dia 10/09/2020, às 19h.
+
+marco = num * 0,31 	// consulta do valor feita no dia 10/09/2020, às 19h.
+
+dolar = num * 5,32		// consulta do valor feita no dia 10/09/2020, às 19h.
+
+ESCREVA "Confira o valor digitado em outras moedas:"
+
+ESCREVA "Em Libra Esterlina o valor digitado em reais valeria ", libra
+
+ESCREVA "Em Marco Alemão o valor digitado em reais valeria ", marco
+
+ESCREVA "Em Dólar o valor digitado em reais valeria ", dolar
+
+{FIM DO ALGORITMO}
+

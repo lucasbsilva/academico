@@ -1,0 +1,28 @@
+{INICIO_ALGORITMO}
+
+DECLARE num, mat[4, 5], i, j NUMERICO
+
+PARA i ← 1 ATE 4 FAÇA
+	PARA j ← 1 ATE 5 FAÇA
+		ESCREVA "Informe um número divisível por 3. Este será armazenado na ", i, "ª linha da ", j, "ª coluna de uma matriz:"
+		LEIA num
+		verifica(num)
+
+PARA i ← 1 ATE 4 FAÇA
+	ESCREVA "Dos valores informados, os que compõem a ", i, "ª linha são:"
+		PARA j ← 1 ATE 5 FAÇA
+		ESCREVA mat[i, j]
+
+{FIM_ALGORITMO}
+
+SUB-ROTINA verifica(num NUMERICO)
+
+SE num MOD 3 = 0 ENTAO
+	LEIA mat[i, j]
+
+SENAO
+	ESCREVA "O número informado é inválido. Informe um número divisível por 3."
+	LEIA num
+	verifica(num)
+
+FIM_SUB_ROTINA

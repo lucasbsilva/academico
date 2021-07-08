@@ -1,0 +1,14 @@
+Algoritmo - Cálculo do Quadrado de um Número
+
+{INICIO DO ALGORITMO}
+
+DECLARE num, resultado NUMERICO
+
+ESCREVA "Informe um número inteiro qualquer:"
+LEIA num
+
+resultado = num ^ 2
+
+ESCREVA "O quadrado do número informado é: ", resultado
+
+{FIM DO ALGORITMO}

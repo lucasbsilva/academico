@@ -1,0 +1,49 @@
+{ALGORITMO} 
+
+DECLARE qtde-num, num[100], media, maiores, i, j NUMERICO 
+
+ESCREVA "Recolheremos alguns números e em seguida lhe informaremos quantos, dos números digitados, são maiores que a média aritmética entre eles. Quantos números você deseja digitar (até 100 números, positivos e inteiros)? " 
+
+LEIA qtde-num 
+
+PARA i ← 1 ATE qtde-num FAÇA 
+
+    INICIO 
+
+    ESCREVA "Informe um número: " 
+
+    LEIA num[i] 
+
+    FIM 
+
+media ← media-ar(qtde-num, num[100])  
+
+PARA j ← 1 ATE qtde-num FAÇA 
+
+    INICIO 
+
+    SE num[j] > media 
+
+        ENTAO maiores ← maiores + 1  
+
+    FIM 
+
+ESCREVA "Dos números digitados, ", maiores, " são maiores que a média entre eles." 
+
+{FIM_ALGORITMO} 
+
+  
+
+SUB_ROTINA media-ar(qtde-num, num[100] NUMERICO) 
+
+DECLARE soma, media, termos, k NUMERICO 
+
+PARA k ← 1 ATE qtde-num FAÇA 
+
+    soma ← soma + num[k]  
+
+media ← soma / qtde-num 
+
+RETORNE media  
+
+FIM_SUB_ROTINA 

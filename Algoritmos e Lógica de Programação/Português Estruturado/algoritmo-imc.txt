@@ -1,0 +1,31 @@
+{INICIO DO ALGORITMO}
+
+DECLARE peso, altura, imc NUMERICO
+
+ESCREVA "Informe o seu peso (somente números):"
+LEIA peso
+
+ESCREVA "Informe a sua altura (somente números):"
+LEIA altura
+
+imc = peso / (altura^2)
+
+SE imc < 18,5
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você está abaixo do peso."
+
+SENAO SE imc = 18,6 E <= 24,9
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você tem o peso ideal."
+
+SENAO SE imc = 25 E <= 29,9
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você está levemente acima do peso."
+
+SENAO SE imc = 30 E <= 34,9
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você se enquadra no caso de obesidade grau I."
+
+SENAO SE imc = 35 E <= 39,9
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você se enquadra no caso de obesidade grau II (severa)."
+
+SENAO SE imc >= 40
+ENTAO ESCREVA "De acordo com o Índice de Massa Corporea, considerando seu peso e altura, você se enquadra no caso de obesidade grau III (mórbida)."
+
+{FIM DO ALGORITMO}

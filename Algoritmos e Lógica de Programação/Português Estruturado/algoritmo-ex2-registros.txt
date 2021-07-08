@@ -1,0 +1,55 @@
+INICIO_ALGORITMO
+
+DECLARE 
+hab[20] REGISTRO (sal, idade, numfilhos NUMERICO, sexo LITERAL)
+i, j, k, l, m, n, op, totalsal, totalfil, psal, percmulheres NUMERICO
+
+percmulheres <- 0
+
+PARA i <- 1 ATE 20 FAÇA
+	INICIO
+	LEIA hab[i].sal
+	LEIA hab[i].idade
+	LEIA hab[i].numfilhos
+	FIM
+
+PARA n <- 1 ATE 20 FAÇA
+	INICIO
+	ESCREVA "Informe o sexo. Digite F para feminino ou M para masculino."
+	LEIA hab[n].sexo
+	FIM
+
+ESCREVA "Escolha uma opção abaixo e digite o nº da mesma:"
+ESCREVA "1. Ver a média salarial da população estudada."
+ESCREVA "2. Ver a média do nº de filhos da população estudada."
+ESCREVA "3. Ver o maior salário dentre a população estudada."
+ESCREVA "4. Ver percentual de mulheres com salário superior a R$ 1.000,00."
+LEIA op
+
+SE op = 1
+	PARA j <- 1 ATE 20 FAÇA
+		totalsal <- totalsal + hab[j].sal
+	ESCREVA totalsal/20
+
+SENAO SE op = 2
+	PARA k <- 1 ATE 20 FAÇA
+		totalfil <- totalfil + hab[k].numfilhos
+	ESCREVA totalfil/20
+
+SENAO SE op = 3
+	psal <- hab[1].sal
+	PARA l <- 2 ATE 20 FAÇA
+		SE hab[l].sal > psal ENTAO
+		psal <- hab[l].sal
+	ESCREVA psal
+
+SENAO SE op = 4
+	PARA m <- 1 ATE 20 FAÇA
+		SE sexo = F E hab[m].sal > 1000 ENTAO
+		percmulheres <- percmulheres + 1
+		SENAO
+		percmulheres <- percmulheres
+	percmulheres <- (percmulheres * 20) / 100
+	ESCREVA percmulheres
+
+FIM_ALGORITMO
