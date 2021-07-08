@@ -1,0 +1,152 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms (1)\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Interface\interface-wms (2)\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Desktop\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Interface\Nova interface\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\WMS Project\Prof. Jane\Entrega Parcial\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddCateg.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface_wms.frmAddSubCateg.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface_wms.frmProdutos.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\KevinRick\Desktop\Projeto Integrado\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
