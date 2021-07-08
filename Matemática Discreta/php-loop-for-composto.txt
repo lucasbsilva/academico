@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+for ($var2 = 000; $var2 <= 004; $var2++) {
+for ($var1 = 000; $var1 <= 004; $var1++) {
+for ($var = 000; $var <= 004; $var++) {
+	echo "$var2$var1$var <br>";
+    }}}    
+
+?>
+
+</body>
+</html>

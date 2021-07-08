@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+$fatorial = 1;
+
+for ($x = 5; $x > 0 ; $x-=1) {
+
+echo "O número é: $x <br>";
+
+$fatorial = $x * $fatorial;
+
+}
+
+echo "O fatorial de 5 é: $fatorial <br>";
+
+?>
+
+</body>
+</html>

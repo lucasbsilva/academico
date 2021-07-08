@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+echo "Tabuada do 10:<br>";
+
+for ($var = 1; $var <= 10; $var++){
+	$mult = 10*$var;
+	echo "10 x $var = $mult<br>";
+    }
+
+?>
+
+</body>
+</html>

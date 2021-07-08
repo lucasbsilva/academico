@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$base="0123456789ABCDEF";
+for ($p3 = 0; $p3 <= 15; $p3++){
+for ($p2 = 0; $p2 <= 15; $p2++){
+for ($p1 = 0; $p1 <= 15; $p1++){
+	echo substr($base, $p1,1);
+    echo substr($base, $p2,1);
+    echo substr($base, $p3,1)."<br>";
+    }}}
+?>
+</body>
+</html>

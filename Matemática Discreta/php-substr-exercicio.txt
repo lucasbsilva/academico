@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+$base="0123456789ABCDEF";
+
+for($x=0; $x <=15; $x++){
+	echo "O número ".$x." na base hexadecimal é: ";
+	echo substr($base, $x,1)."<br>";
+    }
+
+?>
+
+</body>
+</html>
