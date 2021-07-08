@@ -1,0 +1,10 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\bin\Debug\cadastro_bd.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\bin\Debug\cadastro_bd.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\bin\Debug\cadastro_bd.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.formCadastro.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\cadastro_bd\obj\Debug\cadastro_bd.pdb

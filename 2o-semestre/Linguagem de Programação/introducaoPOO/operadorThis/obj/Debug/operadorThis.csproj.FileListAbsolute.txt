@@ -1,0 +1,7 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\bin\Debug\operadorThis.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\bin\Debug\operadorThis.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\bin\Debug\operadorThis.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\obj\Debug\operadorThis.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\obj\Debug\operadorThis.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\obj\Debug\operadorThis.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\operadorThis\obj\Debug\operadorThis.pdb

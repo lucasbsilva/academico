@@ -1,0 +1,7 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\bin\Debug\introducaoPOO.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\bin\Debug\introducaoPOO.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\bin\Debug\introducaoPOO.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\obj\Debug\introducaoPOO.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\obj\Debug\introducaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\obj\Debug\introducaoPOO.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\introducaoPOO\introducaoPOO\obj\Debug\introducaoPOO.pdb

@@ -1,0 +1,10 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\bin\Debug\UsingClassLibrary.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\bin\Debug\UsingClassLibrary.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\bin\Debug\UsingClassLibrary.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.csproj.CopyComplete
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.pdb

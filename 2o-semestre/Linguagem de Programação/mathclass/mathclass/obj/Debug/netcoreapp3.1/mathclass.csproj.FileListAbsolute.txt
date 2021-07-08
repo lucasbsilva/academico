@@ -1,0 +1,13 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.deps.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.runtimeconfig.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.runtimeconfig.dev.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\bin\Debug\netcoreapp3.1\mathclass.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.AssemblyInfo.cs
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\mathclass\mathclass\obj\Debug\netcoreapp3.1\mathclass.genruntimeconfig.cache

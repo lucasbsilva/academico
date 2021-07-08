@@ -1,0 +1,13 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.deps.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.runtimeconfig.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.runtimeconfig.dev.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\bin\Debug\netcoreapp3.1\variaveis.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.AssemblyInfo.cs
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\variaveis\variaveis\obj\Debug\netcoreapp3.1\variaveis.genruntimeconfig.cache

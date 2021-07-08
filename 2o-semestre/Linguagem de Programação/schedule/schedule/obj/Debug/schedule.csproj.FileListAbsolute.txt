@@ -1,0 +1,20 @@
+C:\Users\lukas\source\repos\schedule\schedule\bin\Debug\schedule.exe.config
+C:\Users\lukas\source\repos\schedule\schedule\bin\Debug\schedule.exe
+C:\Users\lukas\source\repos\schedule\schedule\bin\Debug\schedule.pdb
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.frmSchedule.resources
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.Properties.Resources.resources
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.exe
+C:\Users\lukas\source\repos\schedule\schedule\obj\Debug\schedule.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\bin\Debug\schedule.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\bin\Debug\schedule.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\bin\Debug\schedule.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.frmSchedule.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\schedule\schedule\obj\Debug\schedule.csproj.AssemblyReference.cache

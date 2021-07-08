@@ -1,0 +1,7 @@
+C:\Projetos C\NumRandon\NumRandon\bin\Debug\NumRandon.exe.config
+C:\Projetos C\NumRandon\NumRandon\bin\Debug\NumRandon.exe
+C:\Projetos C\NumRandon\NumRandon\bin\Debug\NumRandon.pdb
+C:\Projetos C\NumRandon\NumRandon\obj\Debug\NumRandon.csprojAssemblyReference.cache
+C:\Projetos C\NumRandon\NumRandon\obj\Debug\NumRandon.csproj.CoreCompileInputs.cache
+C:\Projetos C\NumRandon\NumRandon\obj\Debug\NumRandon.exe
+C:\Projetos C\NumRandon\NumRandon\obj\Debug\NumRandon.pdb

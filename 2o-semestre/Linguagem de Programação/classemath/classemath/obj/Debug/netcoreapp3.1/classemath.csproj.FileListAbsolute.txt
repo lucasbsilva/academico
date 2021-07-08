@@ -1,0 +1,13 @@
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.exe
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.deps.json
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.runtimeconfig.json
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.dll
+C:\Users\lukas\source\repos\classemath\classemath\bin\Debug\netcoreapp3.1\classemath.pdb
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.AssemblyInfo.cs
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.dll
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.pdb
+C:\Users\lukas\source\repos\classemath\classemath\obj\Debug\netcoreapp3.1\classemath.genruntimeconfig.cache

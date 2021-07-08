@@ -1,0 +1,26 @@
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.exe
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.deps.json
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.runtimeconfig.json
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.dll
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.pdb
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.AssemblyInfo.cs
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.dll
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.pdb
+C:\Users\lukas\source\repos\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.genruntimeconfig.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.deps.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.runtimeconfig.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.runtimeconfig.dev.json
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\bin\Debug\netcoreapp3.1\pgtoporcomissao.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.AssemblyInfo.cs
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.dll
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\pgtoporcomissao\pgtoporcomissao\obj\Debug\netcoreapp3.1\pgtoporcomissao.genruntimeconfig.cache
