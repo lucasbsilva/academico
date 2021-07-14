@@ -1,2 +1,2 @@
-# Acadêmico - Análise e Desenvolvimento de Sistemas
- Projetos e atividades desenvolvidas na universidade.
+# Academic - Systems Analysis and Development
+Projects and activities developed at the university.
