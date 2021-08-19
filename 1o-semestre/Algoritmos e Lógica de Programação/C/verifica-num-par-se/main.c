@@ -8,7 +8,7 @@ int main()
     int num;
     
     
-    printf("Digite um número: ");
+    printf("Digite um número e aperte ENTER: ");
     scanf("%d", &num);
     
     // Estrutura condicional (SE)
@@ -19,3 +19,4 @@ int main()
 
     return 0;
 }
+

@@ -22,7 +22,7 @@ int main()
     if(SOMA >= 1000)
         printf(" (Tá rico!)");
     else
-        printf(" (Tá pobre.)");
+        printf(" (Tá pobre!)");
 
     return 0;
 }
