@@ -24,6 +24,21 @@ public class ListaInteiros{
         } else {
             dados[tamanho] = item;
             tamanho++;
+            System.out.println("\nItem [" + item + "] adicionado ao final da lista.");
+        }
+    }
+    
+    public void adicionaInicio(int item){
+        if (cheia()){
+            System.out.println("Lista cheia, não é possível adicionar mais itens.");
+        } else {
+            
+            for(int i = tamanho; i > 0; i--){
+                dados[i] = dados[i-1];
+            }
+            dados[0] = item;
+            tamanho++;
+            System.out.println("\nItem [" + item + "] adicionado ao inicio da lista.");
         }
     }
     
@@ -35,6 +50,21 @@ public class ListaInteiros{
             tamanho--;
             itemRemovido = dados[tamanho];
             dados[tamanho] = 0;
+        }
+        return itemRemovido;
+    }
+    
+    public int removerInicio(){
+        int itemRemovido = dados[0];
+        
+        if (vazia()){
+            System.out.println("Lista vazia, item não removido.");
+        } else {
+            tamanho--;
+            itemRemovido = dados[0];
+            for(int i = 0; i < tamanho; i++){
+                dados[i] = dados[i+1];
+            }
         }
         return itemRemovido;
     }
